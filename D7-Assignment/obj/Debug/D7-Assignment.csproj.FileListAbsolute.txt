@@ -1,0 +1,7 @@
+C:\Users\kotap\OneDrive\Desktop\simpli learn Assignments\D7-Assignment\D7-Assignment\bin\Debug\D7-Assignment.exe.config
+C:\Users\kotap\OneDrive\Desktop\simpli learn Assignments\D7-Assignment\D7-Assignment\bin\Debug\D7-Assignment.exe
+C:\Users\kotap\OneDrive\Desktop\simpli learn Assignments\D7-Assignment\D7-Assignment\bin\Debug\D7-Assignment.pdb
+C:\Users\kotap\OneDrive\Desktop\simpli learn Assignments\D7-Assignment\D7-Assignment\obj\Debug\D7-Assignment.csproj.AssemblyReference.cache
+C:\Users\kotap\OneDrive\Desktop\simpli learn Assignments\D7-Assignment\D7-Assignment\obj\Debug\D7-Assignment.csproj.CoreCompileInputs.cache
+C:\Users\kotap\OneDrive\Desktop\simpli learn Assignments\D7-Assignment\D7-Assignment\obj\Debug\D7-Assignment.exe
+C:\Users\kotap\OneDrive\Desktop\simpli learn Assignments\D7-Assignment\D7-Assignment\obj\Debug\D7-Assignment.pdb
